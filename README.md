@@ -17,10 +17,10 @@
 ## Установка
 
 На Windows:
- - Запустить tic-tac-toe.exe
+ - Запустить .../app/tic-tac-toe.exe
 
 В редакторе:
- - Скопировать или скачать код tic-tac-toe.py
+ - Скопировать или скачать код .../app/tic-tac-toe.py
     
 
 ## Screenshots
